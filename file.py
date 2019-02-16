@@ -51,3 +51,9 @@ print(data.shape)
 print
 
 
+
+import numpy as np
+
+
+print(np.mean(data))
+print(np.std(data))
